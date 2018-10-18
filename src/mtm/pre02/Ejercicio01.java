@@ -7,6 +7,9 @@ import java.util.Scanner;
  * Indicar si una persona es mayor de edad a partir de la edad introducida por teclado.
  *
  * @author Mercedes
+ * 
+ * ESPERO QUE DISFRUTES!
+ * https://github.com/mercedestrimar/MTM-Pre02.git
  */
 public class Ejercicio01 {
 
